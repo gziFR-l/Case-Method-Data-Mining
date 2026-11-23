@@ -1,0 +1,5 @@
+Fitur,Tipe,Keterangan
+Time,Numerik,Detik sejak transaksi pertama dalam dataset
+V1 – V28,Numerik,Hasil transformasi PCA; makna aslinya dirahasiakan demi privasi nasabah
+Amount,Numerik,Nominal transaksi
+Class,Kategorikal (0/1),"Label: 1 = fraud, 0 = normal"

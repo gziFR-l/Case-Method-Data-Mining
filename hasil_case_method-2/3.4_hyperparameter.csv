@@ -1,0 +1,11 @@
+,Nilai,Keterangan
+learning_rate,0.05,Besar langkah tiap pohon baru
+num_leaves,31,Maksimum daun per pohon
+min_child_samples,50,Minimum data per daun (mencegah overfit)
+subsample,0.8,Porsi data acak per pohon
+colsample_bytree,0.8,Porsi fitur acak per pohon
+reg_lambda,1.0,Regularisasi L2
+early_stopping,100 ronde (metrik: average precision),Berhenti jika validation tidak membaik
+scale_pos_weight,24.46,Akar rasio normal:fraud (598:1)
+best_iteration (tanpa bobot),66,Jumlah pohon terbaik — LightGBM tanpa bobot
+best_iteration (dengan bobot),150,Jumlah pohon terbaik — LightGBM + scale_pos_weight

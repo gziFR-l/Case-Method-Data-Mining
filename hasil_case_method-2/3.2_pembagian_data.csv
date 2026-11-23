@@ -1,0 +1,4 @@
+,Jumlah transaksi,Jumlah fraud,Persentase fraud (%)
+Train (60%),170235,284,0.16682820806532148
+Validation (20%),56745,94,0.16565336152965018
+Test (20%),56746,95,0.16741268107003138

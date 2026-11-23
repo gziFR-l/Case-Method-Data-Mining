@@ -1,0 +1,9 @@
+,Nilai
+Total nominal fraud (data test),12973.060000000001
+Nominal fraud tertangkap,8274.27
+Nominal fraud lolos,4698.790000000001
+Persentase nominal tertangkap (%),63.780403389793925
+Jumlah transaksi fraud tertangkap,77.0
+Jumlah transaksi fraud lolos,18.0
+Transaksi normal ikut ditandai fraud,13.0
+Persentase transaksi normal terganggu (%),0.02294752078515825
